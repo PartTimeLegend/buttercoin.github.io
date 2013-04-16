@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - "0.10.4"
+  - "0.10.3"
+  - "0.10"
+  - "0.8"
+  - "0.6"
+install:
+  - npm install w3cjs
+  - npm install jshint
+email:
+    on_success: never
+    on_failure: never
+
