@@ -1,0 +1,11 @@
+{
+  "name": "Buttercoin Website",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "npm": "1.1.x",
+  "scripts": 
+  {
+    "test": "travis.js"
+  },
+}
