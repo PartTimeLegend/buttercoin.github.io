@@ -1,0 +1,2 @@
+# buttercoin.github.io
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf864b4fb8184ca68f604a4e2092c8ff)](https://www.codacy.com/app/PartTimeLegend/buttercoin-github-io?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/buttercoin.github.io&utm_campaign=badger)
